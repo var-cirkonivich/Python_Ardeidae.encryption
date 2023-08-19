@@ -1,16 +1,11 @@
-# Python_Ardeidae.encryption
-**｛{{ 𝔸𝕣𝕕𝕖𝕚𝕕𝕒𝕖　𝔼𝕟𝕔𝕣𝕪𝕡𝕥𝕚𝕠𝕟　ℙ𝕣𝕠𝕘𝕣𝕒𝕞 }}｝**
-
-══════════════
-
-**Introduction：**
+#Introduction：
 
 - This is an useless program to encryption your textfile.
 - File name format:    Ardeidae_encryption_{ _Version name_ }
 
 ══════════════
 
-**Instructions：**
+#Instructions：
 
 - Encryption
 
@@ -27,7 +22,7 @@
 
 ══════════════
 
-**Attention：**
+#Attention：
 
 - The file **_must_** be in the same area as the encryption program.
 - Please do **_not_** modify the encrypted text.
