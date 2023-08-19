@@ -7,13 +7,13 @@
 
 # Instructions：
 
-- Encryption
+- **Encryption**
 
  1. Reply " Please enter the file name to encrypt: " the name of the file to be encrypted.
  2. Wait until "Key: " and "Encryption completed." is displayed.
  3. You can go check the ciphertext now ~
 
-- Decrypt
+- **Decrypt**
 
  1. Reply " Please enter the file name to decrypt: " the name of the file to be decrypted.
  2. Reply " Please enter the key: " the key of the file to be decrypted.
@@ -29,4 +29,5 @@
 - The key used for encryption and decryption **_must_** be kept carefully, otherwise decryption will be impossible.
 
 ══════════════
+𝕄𝕒𝕕𝕖　𝕓𝕪： { _Лютомисл_Пахомав_ }
 
