@@ -27,7 +27,3 @@
 - The file **_must_** be in the same area as the encryption program.
 - Please do **_not_** modify the encrypted text.
 - The key used for encryption and decryption **_must_** be kept carefully, otherwise decryption will be impossible.
-
-══════════════
-
-𝕄𝕒𝕕𝕖　𝕓𝕪： { _Лютомисл_Пахомав_ }
