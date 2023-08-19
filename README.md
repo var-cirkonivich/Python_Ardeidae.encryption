@@ -1,11 +1,11 @@
-#Introduction：
+# Introduction：
 
 - This is an useless program to encryption your textfile.
 - File name format:    Ardeidae_encryption_{ _Version name_ }
 
 ══════════════
 
-#Instructions：
+# Instructions：
 
 - Encryption
 
@@ -22,7 +22,7 @@
 
 ══════════════
 
-#Attention：
+# Attention：
 
 - The file **_must_** be in the same area as the encryption program.
 - Please do **_not_** modify the encrypted text.
