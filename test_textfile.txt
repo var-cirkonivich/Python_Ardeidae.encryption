@@ -1,0 +1,20 @@
+ENG:
+First successful execution of the encryption program, akin to the dawn's first light, dissipating the mist. Data is intricately woven through enigmatic algorithms, locked and safeguarded like magic. In that triumphant moment, it's as if a gateway to a new realm opens, amplifying digital security and mystique.
+
+FRN:
+La première exécution réussie du programme de chiffrement, tel le premier éclat de l'aube, disperse la brume. Les données tissées avec subtilité à travers des algorithmes énigmatiques, verrouillées et protégées comme par magie. Dans cet instant triomphant, c'est comme si une porte s'ouvrait sur un nouveau monde, amplifiant la sécurité et le mystère numériques.
+
+SVN:
+Första framgångsrika körningen av krypteringsprogrammet, likt den första morgonljusets strimma, skingrar dimman. Data intrikat vävda genom gåtfulla algoritmer, låsta och skyddade som magi. I den triumferande stunden är det som om en port till en ny värld öppnas, förstärkande digital säkerhet och mystik.
+
+POL:
+Pierwsze udane uruchomienie programu szyfrującego, jak pierwsze światło świtu, rozpraszającego mgłę. Dane misternie tkane poprzez zagadkowe algorytmy, zamknięte i chronione jak magia. W tym chwalebnym momencie, to jakby otworzyła się brama do nowego świata, wzmacniając cyfrowe bezpieczeństwo i mistykę.
+
+TCH:
+加密程式初次運行成功，如同晨曦初升，迷霧逐漸消散。數據在神秘的算法編織下，如魔法般被鎖定，保護。成功的瞬間，彷彿開啟了新世界的大門，讓數位世界更顯安全與奧秘。
+
+KRN:
+암호화 프로그램이 처음으로 성공적으로 실행되자 마치 여명의 첫 빛이 안개를 헤치는 듯하다. 데이터는 신비로운 알고리즘을 통해 정교하게 엮여 마치 마법처럼 잠겨 안전하게 보호된다. 그 승리의 순간, 마치 새로운 세계로 향하는 문이 열리는 듯하며 디지털 보안과 신비가 커진다.
+
+JAP:
+暗号化プログラムが初めて成功裏に実行されると、まるで夜明けの最初の光が霧を晴らしていくかのようだ。データは謎めいたアルゴリズムを通して緻密に織りなされ、まるで魔法のようにロックされて保護される。その勝利の瞬間、新たな世界への扉が開かれたかのようであり、デジタルなセキュリティと神秘が増幅する。
