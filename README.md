@@ -11,7 +11,8 @@
 
  1. Reply " Please enter the file name to encrypt: " the name of the file to be encrypted.
  2. Wait until "Key: " and "Encryption completed." is displayed.
- 3. You can go check the ciphertext now ~
+ 3. Keep the key specific to this article **_carefully_** .
+ 4. You can go check the ciphertext now ~
 
 - **Decrypt**
 
